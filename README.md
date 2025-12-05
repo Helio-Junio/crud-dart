@@ -178,7 +178,7 @@ Pronto para deploy no Docker, Railway, Render, etc.
 
 ## 🧑‍💻 Autores
 
-Hélio Ferreira
-Guilherme Salatiel
-Oscar Lara
+Hélio Ferreira,
+Guilherme Salatiel,
+Oscar Lara,
 Matheus Lima
