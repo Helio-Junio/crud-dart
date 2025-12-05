@@ -47,6 +47,7 @@ MySQL 8
 Workbench para administração
 
 ## 📂 Estrutura do Projeto
+```
 /bin
   └── dart_server.dart         # arquivo principal que inicia o servidor
 
@@ -58,6 +59,7 @@ Workbench para administração
   ├── models/                  # classes model
   ├── routers/                 # rotas expostas
   └── services/                # regras de negócio
+```
 
 ## 🛠️ Como rodar o backend
 1️⃣ Instale as dependências
